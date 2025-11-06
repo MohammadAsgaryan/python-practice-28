@@ -30,3 +30,21 @@ Each call creates a log entry like:
 ### ✅ How to Run
 ```bash
 python practice.py
+After running, check your log.txt file to see recorded logs.
+
+✅ Files Included
+File	Description
+practice.py	Main script with decorator and example functions
+log.txt	Auto-generated file that stores logs
+
+✅ Requirements
+
+✅ Python 3.x
+No external libraries required.
+
+
+
+
+📌 Author
+
+Created as a Python advanced decorator practice project.
